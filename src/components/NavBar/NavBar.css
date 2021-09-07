@@ -1,0 +1,39 @@
+.menu{
+  background-color:rgba(61, 61, 61, 0.568);
+  margin-right: 20%;
+  text-align:center;
+  border-radius: 10px;
+  width: 700px;
+  height: 100%;
+}
+.esla{
+  margin-left: 1%;
+  width: 7%;
+  height: 7%;
+}
+
+.dropdown-item:hover{
+  background-color:rgba(233, 69, 197, 0.651);
+  color: black;
+  border-radius: 10px 15px;
+  border-color:black, 2px ;
+}
+.carrito{
+  font-size:25px;
+  float:right;
+  padding: 9px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color:rgba(61, 61, 61, 0.568);
+  position: relative;
+  color: black;
+  display: flex;
+  left: 590px;
+
+
+}
+.carrito:hover{
+  background-color:rgba(155, 21, 126, 0.671);
+  border-radius: 
+}
